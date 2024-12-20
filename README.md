@@ -2,7 +2,7 @@
 
 
 
-<img align="center" alt="Office" width="180px" src="a.jpg">
+<img align="center" alt="Office" width="380px" src="a.jpg">
 
 
 <img align="left" alt="Visual Studio Code" width="35px" src="./icons/icon_vscode.png">
