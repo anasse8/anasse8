@@ -17,6 +17,9 @@
 <img align="left" alt="PhotoShop" width="35px" src="./icons/icon_ps.png">
 <img align="left" alt="Office" width="35px" src="./icons/icon_office.png">
 
+<br>
+<br>
+<br>
 
 
 > [!WARNING]
