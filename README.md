@@ -7,7 +7,7 @@
 <img align="left" alt="JavaScript" width="35px" src="./icons/icon_android_studio.png">
 <img align="left" alt="React" width="35px" src="./icons/icon_terminal.png">
 <img align="left" alt="Node.js" width="35px" src="./icons/icon_linux.png">
-<img align="left" alt="python" width="35px" src="./icons/icon_windows">
+<img align="left" alt="python" width="35px" src="./icons/icon_windows.png">
 
 
 
