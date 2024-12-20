@@ -1,9 +1,9 @@
 ##Hello World ' I'm AnaSse
 
 
-
+<p align="center">
 <img align="center" alt="Office" width="380px" src="a.jpg">
-
+</p>
 
 <img align="left" alt="Visual Studio Code" width="35px" src="./icons/icon_vscode.png">
 <img align="left" alt="HTML5" width="35px" src="./icons/icon_html.png">
