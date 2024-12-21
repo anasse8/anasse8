@@ -26,9 +26,17 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 
 > [!WARNING]
 > 
 > Why do programmers prefer dark mode?
 >
 > Because light attracts bugs!.
+
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/anasse8/anasse8/output/snake.svg" alt="Snake animation" />
