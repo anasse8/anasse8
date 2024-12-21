@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img align="center" alt="Office" width="380px" src="a.jpg">
+<img align="center" alt="Office" width="380px" src="anime-167-1.png">
 </p>
 
 
