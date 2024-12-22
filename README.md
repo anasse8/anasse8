@@ -38,12 +38,6 @@
 
 
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/anasse8/anasse8/output/snake.svg" alt="Snake animation" />
-
-
-
 
 
 
