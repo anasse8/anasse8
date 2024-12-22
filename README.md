@@ -20,6 +20,7 @@
 <img align="left" alt="python" width="35px" src="./icons/icon_windows.png">
 <img align="left" alt="PhotoShop" width="35px" src="./icons/icon_ps.png">
 <img align="left" alt="Office" width="35px" src="./icons/icon_office.png">
+<img align="left" alt="python" width="35px" src="./icons/icon_markdown.png">
 
 <br>
 <br>
